@@ -19,17 +19,11 @@ Here are some ideas to get you started:
   <p>
     
 [![Github Stars](https://img.shields.io/github/stars/mr-house?color=faf45a&label=github%20stars&logo=github)](https://github.com/mr-house)
+[![Website](https://img.shields.io/badge/website-mr--house.github.io-brightgreen)](https://mr-house.github.io/)
+![Profile View Counter](https://komarev.com/ghpvc/?username=mr-house)
     
   </p>
   
-  <p>
-
-[![Website](https://img.shields.io/badge/website-mr--house.github.io-brightgreen)](https://mr-house.github.io/)
-
-  </p>
-  
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=mr-house)
-
   ## Analysis :point_down:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-house&layout=compact)](https://github.com/mr-house/github-readme-stats)
